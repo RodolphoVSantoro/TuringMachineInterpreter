@@ -1,0 +1,6 @@
+Input: III*III Output: IIIIIIIII Result: Accept 
+Input: II*III Output: IIIIII Result: Accept 
+Input: II*I Output: II Result: Accept 
+Input: I* Output: (~) Result: Reject(Accept) 
+Input: IIII*III Output: IIIIIIIIIIII Result: Accept 
+Input: II*IIII Output: IIIIIIII Result: Accept 
